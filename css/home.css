@@ -1,0 +1,11 @@
+.section-element {
+  overflow: hidden;
+}
+
+.section-element img {
+  width: 100%;
+}
+
+.section-element figcaption {
+  padding-left: 10px;
+}
