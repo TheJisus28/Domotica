@@ -4,3 +4,7 @@
   align-items: center;
   text-align: center;
 }
+
+.section-element p {
+  padding: 4px;
+}
